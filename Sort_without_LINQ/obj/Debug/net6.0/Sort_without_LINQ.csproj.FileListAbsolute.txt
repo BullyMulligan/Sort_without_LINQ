@@ -1,0 +1,15 @@
+C:\Users\user\RiderProjects\Cezar\Cezar\Sort_without_LINQ\Sort_without_LINQ\Sort_without_LINQ\obj\Debug\net6.0\Sort_without_LINQ.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\Cezar\Cezar\Sort_without_LINQ\Sort_without_LINQ\Sort_without_LINQ\obj\Debug\net6.0\Sort_without_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\Cezar\Cezar\Sort_without_LINQ\Sort_without_LINQ\Sort_without_LINQ\obj\Debug\net6.0\Sort_without_LINQ.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\Cezar\Cezar\Sort_without_LINQ\Sort_without_LINQ\Sort_without_LINQ\obj\Debug\net6.0\Sort_without_LINQ.AssemblyInfo.cs
+C:\Users\user\RiderProjects\Cezar\Cezar\Sort_without_LINQ\Sort_without_LINQ\Sort_without_LINQ\obj\Debug\net6.0\Sort_without_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\Cezar\Cezar\Sort_without_LINQ\Sort_without_LINQ\Sort_without_LINQ\bin\Debug\net6.0\Sort_without_LINQ.exe
+C:\Users\user\RiderProjects\Cezar\Cezar\Sort_without_LINQ\Sort_without_LINQ\Sort_without_LINQ\bin\Debug\net6.0\Sort_without_LINQ.deps.json
+C:\Users\user\RiderProjects\Cezar\Cezar\Sort_without_LINQ\Sort_without_LINQ\Sort_without_LINQ\bin\Debug\net6.0\Sort_without_LINQ.runtimeconfig.json
+C:\Users\user\RiderProjects\Cezar\Cezar\Sort_without_LINQ\Sort_without_LINQ\Sort_without_LINQ\bin\Debug\net6.0\Sort_without_LINQ.dll
+C:\Users\user\RiderProjects\Cezar\Cezar\Sort_without_LINQ\Sort_without_LINQ\Sort_without_LINQ\bin\Debug\net6.0\Sort_without_LINQ.pdb
+C:\Users\user\RiderProjects\Cezar\Cezar\Sort_without_LINQ\Sort_without_LINQ\Sort_without_LINQ\obj\Debug\net6.0\Sort_without_LINQ.dll
+C:\Users\user\RiderProjects\Cezar\Cezar\Sort_without_LINQ\Sort_without_LINQ\Sort_without_LINQ\obj\Debug\net6.0\refint\Sort_without_LINQ.dll
+C:\Users\user\RiderProjects\Cezar\Cezar\Sort_without_LINQ\Sort_without_LINQ\Sort_without_LINQ\obj\Debug\net6.0\Sort_without_LINQ.pdb
+C:\Users\user\RiderProjects\Cezar\Cezar\Sort_without_LINQ\Sort_without_LINQ\Sort_without_LINQ\obj\Debug\net6.0\Sort_without_LINQ.genruntimeconfig.cache
+C:\Users\user\RiderProjects\Cezar\Cezar\Sort_without_LINQ\Sort_without_LINQ\Sort_without_LINQ\obj\Debug\net6.0\ref\Sort_without_LINQ.dll
